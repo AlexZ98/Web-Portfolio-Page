@@ -1,3 +1,4 @@
 # Web-Portfolio-Page
 Personal web portfolio webpage to be hosted remotely on Heroku, using HTML/CSS, JavaScript, Node.js, Express.js, EJS templating and layouts.
-Currently WIP.
+
+## Access Link: https://alexzhuang.herokuapp.com/
